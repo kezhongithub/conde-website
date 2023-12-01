@@ -1,0 +1,23 @@
+body{
+    font-family: Arial;
+    background: hwb(222 1% 66% / 0.968);
+    color: rgb(225, 219, 219);
+  
+  }
+  .Welcome{
+    color: #e6ede3;
+    font-size: 27px;
+  
+  }
+  .top span{
+    
+    color: yellow;
+  }
+  .info{
+    border: 2px solid rgb(238, 232, 232);
+    padding: 20px;
+  }
+  b{color: rgb(149, 234, 253);}
+  img{
+    width: 100%;
+  }
